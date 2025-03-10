@@ -7,4 +7,4 @@ Script to fetch the recent activity of a GitHub user.
 - run **.\github-activity.exe \<username\>** (on Windows) or **./github-activity.exe \<username\>** (on Linux)
 
 Project page URL:
-https://api.github.com/users/kamranahmedse/events
+https://roadmap.sh/projects/github-user-activity
